@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sherzod Shokirov
+- 👀 I’m interested in write code
+- 🌱 I’m currently learning django
+- 💞️ I’m looking to collaborate on BuxSU and BuxSPI
